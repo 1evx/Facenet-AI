@@ -30,6 +30,6 @@ pip install -r requirements.txt
 ├── facenet_test.ipynb      # Core notebook - custom face recognition pipeline <br />
 ├── requirements.txt        # Python dependencies <br />
 ├── data                    # Dataset folder <br />
-│   ├── cropped_images      # Images cropped by MTCNN <br />
-│   ├── target_images       # Images to be tested <br />
-│   └── train_images        # Images to be trained by model <br />
+   ├── cropped_images      # Images cropped by MTCNN <br />
+   ├── target_images       # Images to be tested <br />
+   └── train_images        # Images to be trained by model <br />
